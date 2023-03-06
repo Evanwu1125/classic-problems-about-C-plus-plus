@@ -15,6 +15,7 @@ c++题目汇总 （自己写的AC代码在每个md文件最下方），持续更
 #### [STL容器、位运算与常用库函数](https://github.com/Evanwu1125/classic-problems-about-C-plus-plus/tree/main/c%2B%2B%E8%AF%AD%E6%B3%95%E5%9F%BA%E7%A1%80/STL%E5%AE%B9%E5%99%A8%E3%80%81%E4%BD%8D%E8%BF%90%E7%AE%97%E4%B8%8E%E5%B8%B8%E7%94%A8%E5%BA%93%E5%87%BD%E6%95%B0)（已完成）
 ## [基础算法题](https://github.com/Evanwu1125/classic-problems-about-C-plus-plus/tree/main/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E9%A2%98)（正在进行）
 ## [蓝桥杯竞赛真题](https://github.com/Evanwu1125/classic-problems-about-C-plus-plus/tree/main/%E8%93%9D%E6%A1%A5%E6%9D%AFc%2B%2BA%20B%E7%BB%84)（正在进行）
+#### [递归与地推](https://github.com/Evanwu1125/classic-problems-about-C-plus-plus/tree/main/%E8%93%9D%E6%A1%A5%E6%9D%AFc%2B%2BA%20B%E7%BB%84/%E7%AC%AC%E4%B8%80%E8%AE%B2%20%E9%80%92%E5%BD%92%E4%B8%8E%E9%80%92%E6%8E%A8)（已完成）
 ## [每日一题](https://github.com/Evanwu1125/classic-problems-about-C-plus-plus/tree/main/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98)（正在进行）
 
 题目出处：Acwing  
