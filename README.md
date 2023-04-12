@@ -19,6 +19,8 @@ c++题目汇总 （自己写的AC代码在每个md文件最下方），持续更
 #### [二分与前缀和](https://github.com/Evanwu1125/classic-problems-about-C-plus-plus/tree/main/%E8%93%9D%E6%A1%A5%E6%9D%AFc%2B%2BA%20B%E7%BB%84/%E7%AC%AC%E4%BA%8C%E8%AE%B2%20%E4%BA%8C%E5%88%86%E4%B8%8E%E5%89%8D%E7%BC%80) (已完成)
 #### [数学与简单DP](https://github.com/Evanwu1125/classic-problems-about-C-plus-plus/tree/main/%E8%93%9D%E6%A1%A5%E6%9D%AFc%2B%2BA%20B%E7%BB%84/%E7%AC%AC%E4%B8%89%E8%AE%B2%20%E6%95%B0%E5%AD%A6%E4%B8%8E%E7%AE%80%E5%8D%95DP)（已完成）
 #### [枚举、模拟与排序](https://github.com/Evanwu1125/classic-problems-about-C-plus-plus/tree/main/%E8%93%9D%E6%A1%A5%E6%9D%AFc%2B%2BA%20B%E7%BB%84/%E7%AC%AC%E5%9B%9B%E8%AE%B2%20%E6%9E%9A%E4%B8%BE%E3%80%81%E6%A8%A1%E6%8B%9F%E4%B8%8E%E6%8E%92%E5%BA%8F)（已完成）
+#### [双指针、BFS和图论](https://github.com/Evanwu1125/classic-problems-about-C-plus-plus/tree/main/%E8%93%9D%E6%A1%A5%E6%9D%AFc%2B%2BA%20B%E7%BB%84/%E7%AC%AC%E5%85%AD%E8%AE%B2%20%E5%8F%8C%E6%8C%87%E9%92%88%E3%80%81BFS%E4%B8%8E%E5%9B%BE%E8%AE%BA)（已完成）
+#### [贪心](https://github.com/Evanwu1125/classic-problems-about-C-plus-plus/tree/main/%E8%93%9D%E6%A1%A5%E6%9D%AFc%2B%2BA%20B%E7%BB%84/%E7%AC%AC%E4%B8%83%E8%AE%B2%20%E8%B4%AA%E5%BF%83)（已完成）
 ## [每日一题](https://github.com/Evanwu1125/classic-problems-about-C-plus-plus/tree/main/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98)（正在进行）
 
 题目出处：Acwing  
